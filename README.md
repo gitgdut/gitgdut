@@ -1,4 +1,4 @@
-# Hi, I'm Zhaojiaxin (赵佳鑫) 👋
+# Hi, I'm Purple Zhao 👋
 
 > A blockchain believer building toward a remote Web3 career & a digital-nomad life 🌍
 
