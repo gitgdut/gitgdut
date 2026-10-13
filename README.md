@@ -2,7 +2,7 @@
 
 > A blockchain believer building toward a remote Web3 career & a digital-nomad life 🌍
 
-**广东工业大学 · Computer Science · 大三 (Junior)**
+ · Computer Science · 大三 (Junior)**
 
 I'm a junior CS student who believes deeply in blockchain and decentralization. I spend most of my energy on **hackathons** — building, shipping, and learning in public.
 
